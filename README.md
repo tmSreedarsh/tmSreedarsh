@@ -5,7 +5,7 @@ I'm a passionate Geoinformatics and Remote Sensing student focused on GIS, machi
 
 🌱 Currently learning Python and Deep Learning  
 💻 Check out my projects below  
-📫 Reach me at sreedarsh@example.com  
+📫 Reach me at tmsreedarsh@gmail.com  
 
 ---
 
