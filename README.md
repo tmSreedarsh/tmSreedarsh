@@ -11,8 +11,8 @@ I'm a passionate Geoinformatics and Remote Sensing student focused on GIS, machi
 
 ### 🛠️ Skills
 
-- Python | QGIS | Google Earth Engine  
-- Machine Learning | ArcPRO  
+- Basic Python | ArcPRO | Google Earth Engine  
+- QGIS | VS Code   
 - Remote Sensing | GIS  
 
 ---
